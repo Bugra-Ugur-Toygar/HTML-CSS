@@ -1,0 +1,40 @@
+.main-title {
+  text-align: center;
+  color: #333;
+}
+.blog2 {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 600px;
+}
+.footer {
+  background-color: #333;
+  color: #f4f4f4;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.main-nav ul {
+  list-style: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.main-nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+.main-nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.main-nav ul li a:hover {
+  text-decoration: underline;
+}
